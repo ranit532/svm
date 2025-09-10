@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/2185206/svm/mlruns/713295471887055215/models/m-70859750a3cb497ca98b41d5242edf38/artifacts
+creation_timestamp: 1757489399386
+experiment_id: '713295471887055215'
+last_updated_timestamp: 1757489445051
+model_id: m-70859750a3cb497ca98b41d5242edf38
+model_type: null
+name: Linear_SVM
+source_run_id: 6467034bccf245b5b8d6a02831ec23b2
+status: 2
+status_message: null

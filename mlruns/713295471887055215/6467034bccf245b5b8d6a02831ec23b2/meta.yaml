@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/2185206/svm/mlruns/713295471887055215/6467034bccf245b5b8d6a02831ec23b2/artifacts
+end_time: 1757489465418
+entry_point_name: ''
+experiment_id: '713295471887055215'
+lifecycle_stage: active
+run_id: 6467034bccf245b5b8d6a02831ec23b2
+run_name: Linear_SVM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757489398866
+status: 3
+tags: []
+user_id: '2185206'

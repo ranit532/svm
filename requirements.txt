@@ -5,3 +5,5 @@ mlflow
 fastapi
 uvicorn
 joblib
+matplotlib
+seaborn

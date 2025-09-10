@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/2185206/svm/mlruns/713295471887055215/models/m-e24246bb19bb46de8e49b4483ddf5841/artifacts
+creation_timestamp: 1757490483683
+experiment_id: '713295471887055215'
+last_updated_timestamp: 1757490506507
+model_id: m-e24246bb19bb46de8e49b4483ddf5841
+model_type: null
+name: RBF_SVM
+source_run_id: fa73224379554c0482764176a406646a
+status: 2
+status_message: null

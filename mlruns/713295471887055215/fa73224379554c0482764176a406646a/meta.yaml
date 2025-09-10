@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/2185206/svm/mlruns/713295471887055215/fa73224379554c0482764176a406646a/artifacts
+end_time: 1757490528004
+entry_point_name: ''
+experiment_id: '713295471887055215'
+lifecycle_stage: active
+run_id: fa73224379554c0482764176a406646a
+run_name: RBF_SVM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757490483350
+status: 3
+tags: []
+user_id: '2185206'
